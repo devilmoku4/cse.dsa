@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.mainDiv{
+  background-image: url(./assets/bgi.jpg);
+  background-size: cover;
+  background-position: center;
+}
